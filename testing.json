@@ -1,4 +1,4 @@
-{ [
+ [
     { "id": 1, "title": "Android Developer" ,"description": "An Android Developer is a Software Developer who specializes in designing applications for the Android marketplace. The Android marketplace is the direct competitor to Apple's app store. "},
     { "id": 2, "title": "IOS Developer" ,"description":"An iOS developer is responsible for developing applications for mobile devices powered by Apple's iOS operating system. Ideally, a good iOS developer is proficient with one of the two programming languages for this platform: Objective-C or Swift."},
     { "id": 3, "title": "Quality Analyst","descrition":" Quality analysts are testers and problem solvers. Job duties include testing websites or software for problems, documenting any issues and ensuring errors are corrected. They are a crucial component to any software development process." },
@@ -10,4 +10,4 @@
 
  ]
  
-}
+
